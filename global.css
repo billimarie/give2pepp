@@ -1,0 +1,27 @@
+/* TYPOGRAPHY */
+html, body.microsite, h1, h3, p {
+  font-family: 'PT Sans', Arial, sans-serif;
+}
+
+h1 {
+  line-height: 1.4;
+  letter-spacing: 0px;
+  color: #fff;
+  text-shadow: 0 0 15px rgb(0 0 0 / 80%);
+  font-weight: 700;
+}
+
+h3 {
+  color: #00205c;
+  font-weight: 700;
+  line-height: 1.15em;
+}
+
+p {
+  font-size: 1.1rem;
+  font-weight: 400;
+    letter-spacing: 0;
+    color: #231f20;
+    line-height: 1.75em;
+    margin-top: 25px;
+}
