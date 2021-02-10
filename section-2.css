@@ -1,0 +1,17 @@
+/* TYPOGRAPHY */
+h3 {
+  color: #00205c;
+  font-family: 'PT Sans', Arial, sans-serif;
+  font-weight: 700;
+  line-height: 1.15em;
+}
+
+p {
+  font-family: 'PT Sans', Arial, sans-serif;
+  font-size: 1.1rem;
+  font-weight: 400;
+  letter-spacing: 0;
+  color: #231f20;
+  line-height: 1.75em;
+  margin-top: 25px;
+}
