@@ -1,0 +1,11 @@
+/* YOUTUBE */
+iframe {
+  width: auto;
+  height: auto;
+}
+@media only screen and (min-width: 550px) {
+  iframe { width: 100%; }
+}
+@media only screen and (min-width: 830px) {
+  iframe { height: 445px; }
+}
