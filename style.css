@@ -1,0 +1,25 @@
+/* CTA BUTTON */
+a.g2p-btn {
+  padding: 15px 10px;
+  font-size: 1.5rem;
+  width: 100%;
+  height: auto;
+  margin-top: 0;
+  color: #fff;
+  font-family: 'PT Sans', Arial, sans-serif;
+  cursor: pointer;
+  font-weight: 700;
+  border: none;
+  outline: 3px solid #0078b0;
+  outline-offset: -3px;
+  -webkit-appearance: none;
+  margin-top: 1.6em;
+  background-color: #0078b0;
+  transition: all 250ms ease-in-out;
+}
+a.g2p-btn:hover {
+  color: #fff;
+  background-color: #c25700;
+  outline-color: #c25700;
+  transition: all 250ms ease-in-out;
+}
