@@ -1,7 +1,4 @@
 /* MICROSITE */
 .giving-nav-root .giving-nav-links {
-  display: none;
-  opacity: 0;
-  visibility: hidden;
-  height: 0;
+  justify-content: flex-end;
 }
